@@ -4,7 +4,7 @@ Welcome to my portfolio projects page! Here, you’ll find a curated collection 
 
 
 ## Live Demo
-Check out the live version of this portfolio at: [https://shafin-jadavji.github.io/portfolio-projects/](https://shafin-jadavji.github.io/portfolio-projects/)
+Check out the live version of this portfolio at: <a href="https://shafin-jadavji.github.io/portfolio-projects/" target="_blank">https://shafin-jadavji.github.io/portfolio-projects/</a>
 
 ## Projects Overview
 Below are the projects featured in this portfolio:
@@ -57,7 +57,7 @@ If you wish to contribute to any of these projects or provide feedback, feel fre
 ## Contact
 Feel free to reach out with any questions or collaboration opportunities:
 - **Email**: shafinj@gmail.com
-- **LinkedIn**: [https://linkedin.com/in/shafinjadavji](https://linkedin.com/in/shafinjadavji)
+- **LinkedIn**: <a href="https://linkedin.com/in/shafinjadavji" target="_blank">https://linkedin.com/in/shafinjadavji</a>
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
